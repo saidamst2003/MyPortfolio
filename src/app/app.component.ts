@@ -11,6 +11,7 @@ import { AboutComponent } from './about/about.component';
   imports: [NavbarComponent, EcperienceComponent, HomeComponent, AboutComponent],
   templateUrl: './app.component.html',
   styleUrls: ['./app.component.css'] 
+  
 })
 export class AppComponent {
   title = 'TestApp';
